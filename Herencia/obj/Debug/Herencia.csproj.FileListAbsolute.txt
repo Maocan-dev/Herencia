@@ -1,0 +1,13 @@
+C:\Users\X\Desktop\PSAINT\JULIO\programacion apps\Herencia\Herencia\bin\Debug\Herencia.exe.config
+C:\Users\X\Desktop\PSAINT\JULIO\programacion apps\Herencia\Herencia\bin\Debug\Herencia.exe
+C:\Users\X\Desktop\PSAINT\JULIO\programacion apps\Herencia\Herencia\bin\Debug\Herencia.pdb
+C:\Users\X\Desktop\PSAINT\JULIO\programacion apps\Herencia\Herencia\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\X\Desktop\PSAINT\JULIO\programacion apps\Herencia\Herencia\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\X\Desktop\PSAINT\JULIO\programacion apps\Herencia\Herencia\obj\Debug\Herencia.csprojResolveAssemblyReference.cache
+C:\Users\X\Desktop\PSAINT\JULIO\programacion apps\Herencia\Herencia\obj\Debug\Herencia.Form1.resources
+C:\Users\X\Desktop\PSAINT\JULIO\programacion apps\Herencia\Herencia\obj\Debug\Herencia.Menuprincipal.resources
+C:\Users\X\Desktop\PSAINT\JULIO\programacion apps\Herencia\Herencia\obj\Debug\Herencia.Properties.Resources.resources
+C:\Users\X\Desktop\PSAINT\JULIO\programacion apps\Herencia\Herencia\obj\Debug\Herencia.csproj.GenerateResource.Cache
+C:\Users\X\Desktop\PSAINT\JULIO\programacion apps\Herencia\Herencia\obj\Debug\Herencia.exe
+C:\Users\X\Desktop\PSAINT\JULIO\programacion apps\Herencia\Herencia\obj\Debug\Herencia.pdb
+C:\Users\X\Desktop\PSAINT\JULIO\programacion apps\Herencia\Herencia\obj\Debug\Herencia.Login.resources
